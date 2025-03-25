@@ -37,15 +37,7 @@ The data pipeline follows these steps:
 1. **Data Ingestion**: Retail sales data is collected and cleaned.
 2. **Visualization & Reporting**: Power BI creates interactive dashboards to present insights effectively.
 
-### 📷 **Integration Example:**  
-
-#### 📊 **Visualization in Power BI**  
-
-- **  
-  ![PBI]()  
-
-
-### 📈 Exploratory Data Analysis (EDA)
+### 📈 Exploratory Data Analysis 
 
 - Identify trends and anomalies in sales data.
 - Analyze seasonal and quarterly demand fluctuations.
@@ -58,6 +50,26 @@ The data pipeline follows these steps:
 - **Age and Gender Influence Dashboard**: Analyzes how age and gender affect purchasing behavior in 2023.
 - **Seasonal Shopping Habits Dashboard**: Examines how shopping habits change during specific seasons.
 - **Sales Patterns Dashboard**: Investigates variations in sales patterns across different time periods and transaction volumes.
+
+### 📷 **Integration Example:**  
+
+#### 📊 **Visualization in Power BI**  
+
+1. **Age and Gender Influence Dashboard**  
+   This dashboard provides insights into how age and gender demographics affect purchasing behavior in 2023. It helps businesses tailor their marketing strategies to target specific customer segments effectively.
+   
+  ![PBI](https://github.com/LennyMGarcia/Retail-Sales-Dashboard/blob/main/Retail%20Sales%20imgs/RetailSales%20-%20Age%20and%20gender%20dashboard.png)
+
+2. **Shopping Habits Dashboard**  
+   This dashboard analyzes how shopping habits change during specific seasons, allowing retailers to adjust their inventory and promotional strategies accordingly. It highlights seasonal trends and consumer preferences.
+   
+  ![PBI](https://github.com/LennyMGarcia/Retail-Sales-Dashboard/blob/main/Retail%20Sales%20imgs/Retail%20sales%20-%20Shoping%20Habits%20Dashboard.png)
+
+3. **Sales Patterns Dashboard**  
+   This dashboard investigates identifiable sales patterns across different time periods and transaction volumes. It enables businesses to understand fluctuations in sales and optimize their operations based on historical data.
+   
+  ![PBI](https://github.com/LennyMGarcia/Retail-Sales-Dashboard/blob/main/Retail%20Sales%20imgs/Retail%20Sales%20-%20Times%20Period%20Dashboard.png)  
+
 
 ## 🛠️ Prerequisites
 
